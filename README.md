@@ -20,7 +20,7 @@ annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
 ## Implementation
 1. Add the classes MyGlideAppModule.kt and UnsafeOkHttpClient.kt to your project. For Java projects, equivalent Java code can be added.
 
-2. Update your AndroidManifest.xml inside the <application> tag with the following metadata:
+2. Update your AndroidManifest.xml inside the application tag with the following metadata:
 
 ```
 <application>
